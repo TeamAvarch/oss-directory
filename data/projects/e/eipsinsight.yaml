@@ -1,0 +1,7 @@
+version: 7
+name: eipsinsight
+display_name: EIPsInsight
+github:
+  - url: https://github.com/AvarchLLC/EIPsInsight
+websites:
+  - url: https://eipsinsight.com/
